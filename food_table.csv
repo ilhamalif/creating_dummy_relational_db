@@ -1,0 +1,1001 @@
+food_id,restaurant_id,food_name,price,description,availability
+1,10,Nasi Goreng,40136,Daging sapi yang dimasak dengan bumbu khas,False
+2,9,Lontong Sayur,49465,Ikan bakar dengan sambal kecap,False
+3,29,Rendang,21482,Nasi goreng khas dengan telur dan ayam,True
+4,16,Lontong Sayur,24359,Daging sapi yang dimasak dengan bumbu khas,False
+5,20,Rendang,19423,Ikan bakar dengan sambal kecap,True
+6,12,Nasi Padang,34671,"Nasi dengan lauk rendang, gulai, atau sambal",False
+7,33,Gado-Gado,10391,Daging sapi yang dimasak dengan bumbu khas,False
+8,37,Rendang,42749,Ikan bakar dengan sambal kecap,False
+9,1,Lontong Sayur,49971,Nasi goreng khas dengan telur dan ayam,True
+10,45,Nasi Padang,12742,Sayur-sayuran dengan saus kacang,False
+11,21,Nasi Goreng,20126,Mie kuning dengan ayam dan pangsit,True
+12,19,Lontong Sayur,17410,Kuah kuning dengan ayam suwir dan koya,False
+13,8,Mie Ayam,32006,Bakso sapi dengan kuah kaldu,False
+14,43,Gado-Gado,24038,Lontong dengan kuah santan dan sayuran,False
+15,29,Bakso,30376,Daging sapi yang dimasak dengan bumbu khas,True
+16,11,Ayam Geprek,24223,Daging sapi yang dimasak dengan bumbu khas,False
+17,9,Ikan Bakar,34724,Nasi goreng khas dengan telur dan ayam,True
+18,39,Nasi Goreng,44418,Mie kuning dengan ayam dan pangsit,True
+19,49,Rendang,20682,Sayur-sayuran dengan saus kacang,True
+20,47,Gado-Gado,24516,Lontong dengan kuah santan dan sayuran,True
+21,22,Nasi Padang,45510,Sayur-sayuran dengan saus kacang,True
+22,8,Nasi Goreng,25869,Mie kuning dengan ayam dan pangsit,True
+23,29,Lontong Sayur,25631,Bakso sapi dengan kuah kaldu,False
+24,50,Rendang,10229,Nasi goreng khas dengan telur dan ayam,True
+25,3,Gado-Gado,34376,Kuah kuning dengan ayam suwir dan koya,False
+26,24,Mie Ayam,17494,Lontong dengan kuah santan dan sayuran,False
+27,43,Ayam Geprek,37927,Nasi goreng khas dengan telur dan ayam,True
+28,39,Lontong Sayur,38557,Nasi goreng khas dengan telur dan ayam,False
+29,42,Nasi Goreng,43089,Daging sapi yang dimasak dengan bumbu khas,True
+30,18,Soto Ayam,43421,Ikan bakar dengan sambal kecap,True
+31,6,Mie Ayam,43173,Ikan bakar dengan sambal kecap,True
+32,49,Lontong Sayur,37033,"Nasi dengan lauk rendang, gulai, atau sambal",False
+33,4,Mie Ayam,32997,Daging sapi yang dimasak dengan bumbu khas,False
+34,23,Gado-Gado,31168,Bakso sapi dengan kuah kaldu,False
+35,3,Rendang,49520,Sayur-sayuran dengan saus kacang,True
+36,38,Gado-Gado,40385,Ikan bakar dengan sambal kecap,True
+37,20,Bakso,19843,Bakso sapi dengan kuah kaldu,True
+38,40,Rendang,22283,Bakso sapi dengan kuah kaldu,True
+39,42,Nasi Goreng,28932,Ikan bakar dengan sambal kecap,False
+40,7,Nasi Goreng,33513,Daging sapi yang dimasak dengan bumbu khas,False
+41,3,Ikan Bakar,10250,"Nasi dengan lauk rendang, gulai, atau sambal",True
+42,34,Nasi Padang,32834,Kuah kuning dengan ayam suwir dan koya,False
+43,32,Lontong Sayur,38442,Sayur-sayuran dengan saus kacang,True
+44,7,Rendang,42879,Kuah kuning dengan ayam suwir dan koya,True
+45,11,Lontong Sayur,17886,Ayam goreng dengan sambal pedas,False
+46,23,Nasi Goreng,48860,Sayur-sayuran dengan saus kacang,True
+47,8,Ikan Bakar,28496,Ikan bakar dengan sambal kecap,True
+48,32,Bakso,24075,Bakso sapi dengan kuah kaldu,False
+49,35,Gado-Gado,17826,Daging sapi yang dimasak dengan bumbu khas,True
+50,23,Ayam Geprek,11257,Sayur-sayuran dengan saus kacang,True
+51,24,Gado-Gado,31009,"Nasi dengan lauk rendang, gulai, atau sambal",True
+52,25,Nasi Goreng,37428,Bakso sapi dengan kuah kaldu,False
+53,43,Rendang,13574,Lontong dengan kuah santan dan sayuran,False
+54,8,Rendang,23544,"Nasi dengan lauk rendang, gulai, atau sambal",True
+55,9,Gado-Gado,47616,Mie kuning dengan ayam dan pangsit,False
+56,15,Gado-Gado,22553,Nasi goreng khas dengan telur dan ayam,False
+57,48,Rendang,49743,Nasi goreng khas dengan telur dan ayam,True
+58,17,Nasi Padang,33536,Ikan bakar dengan sambal kecap,False
+59,14,Nasi Goreng,28879,Mie kuning dengan ayam dan pangsit,True
+60,1,Soto Ayam,24129,Ayam goreng dengan sambal pedas,True
+61,40,Gado-Gado,10388,Mie kuning dengan ayam dan pangsit,False
+62,50,Ayam Geprek,17186,Mie kuning dengan ayam dan pangsit,False
+63,28,Mie Ayam,36341,"Nasi dengan lauk rendang, gulai, atau sambal",True
+64,19,Soto Ayam,25010,Nasi goreng khas dengan telur dan ayam,True
+65,35,Bakso,43671,Kuah kuning dengan ayam suwir dan koya,False
+66,42,Lontong Sayur,19126,"Nasi dengan lauk rendang, gulai, atau sambal",True
+67,13,Rendang,45461,Lontong dengan kuah santan dan sayuran,False
+68,38,Mie Ayam,19147,Daging sapi yang dimasak dengan bumbu khas,True
+69,26,Soto Ayam,30907,Ayam goreng dengan sambal pedas,False
+70,12,Ayam Geprek,35777,Ikan bakar dengan sambal kecap,True
+71,17,Ayam Geprek,39492,Nasi goreng khas dengan telur dan ayam,True
+72,14,Nasi Padang,10465,Nasi goreng khas dengan telur dan ayam,False
+73,44,Mie Ayam,35177,Lontong dengan kuah santan dan sayuran,False
+74,45,Gado-Gado,28827,Ayam goreng dengan sambal pedas,False
+75,17,Mie Ayam,47896,Ikan bakar dengan sambal kecap,False
+76,5,Bakso,22561,Nasi goreng khas dengan telur dan ayam,False
+77,1,Lontong Sayur,23620,Daging sapi yang dimasak dengan bumbu khas,True
+78,41,Gado-Gado,40088,Ikan bakar dengan sambal kecap,True
+79,35,Bakso,35348,Bakso sapi dengan kuah kaldu,False
+80,31,Bakso,35809,Lontong dengan kuah santan dan sayuran,True
+81,37,Ayam Geprek,26401,"Nasi dengan lauk rendang, gulai, atau sambal",False
+82,22,Bakso,34183,"Nasi dengan lauk rendang, gulai, atau sambal",True
+83,24,Bakso,16944,Kuah kuning dengan ayam suwir dan koya,True
+84,27,Bakso,26859,Ayam goreng dengan sambal pedas,True
+85,45,Nasi Goreng,34560,Kuah kuning dengan ayam suwir dan koya,False
+86,7,Ayam Geprek,41835,Kuah kuning dengan ayam suwir dan koya,False
+87,42,Nasi Padang,22068,Nasi goreng khas dengan telur dan ayam,True
+88,38,Lontong Sayur,19286,Sayur-sayuran dengan saus kacang,True
+89,15,Nasi Goreng,14327,"Nasi dengan lauk rendang, gulai, atau sambal",True
+90,21,Soto Ayam,22726,Daging sapi yang dimasak dengan bumbu khas,False
+91,45,Rendang,46984,Daging sapi yang dimasak dengan bumbu khas,False
+92,28,Mie Ayam,33005,Ikan bakar dengan sambal kecap,True
+93,24,Mie Ayam,21230,Nasi goreng khas dengan telur dan ayam,True
+94,26,Gado-Gado,34480,Bakso sapi dengan kuah kaldu,True
+95,20,Gado-Gado,40738,Sayur-sayuran dengan saus kacang,False
+96,48,Nasi Goreng,43303,Lontong dengan kuah santan dan sayuran,True
+97,31,Nasi Padang,11655,Bakso sapi dengan kuah kaldu,True
+98,4,Ikan Bakar,49723,Daging sapi yang dimasak dengan bumbu khas,True
+99,15,Rendang,46717,Lontong dengan kuah santan dan sayuran,True
+100,47,Ikan Bakar,11690,Ikan bakar dengan sambal kecap,True
+101,23,Bakso,29774,Ayam goreng dengan sambal pedas,True
+102,11,Gado-Gado,31711,Mie kuning dengan ayam dan pangsit,True
+103,18,Ikan Bakar,31261,Daging sapi yang dimasak dengan bumbu khas,True
+104,25,Ayam Geprek,14832,Sayur-sayuran dengan saus kacang,False
+105,25,Mie Ayam,47735,Ikan bakar dengan sambal kecap,True
+106,45,Soto Ayam,25889,Sayur-sayuran dengan saus kacang,False
+107,4,Bakso,27217,Ayam goreng dengan sambal pedas,False
+108,11,Mie Ayam,42120,Ayam goreng dengan sambal pedas,False
+109,1,Ikan Bakar,11711,Lontong dengan kuah santan dan sayuran,True
+110,9,Ayam Geprek,14671,"Nasi dengan lauk rendang, gulai, atau sambal",True
+111,37,Soto Ayam,41181,Daging sapi yang dimasak dengan bumbu khas,True
+112,19,Mie Ayam,42087,Bakso sapi dengan kuah kaldu,False
+113,44,Nasi Padang,46496,Ikan bakar dengan sambal kecap,False
+114,47,Mie Ayam,29251,Ayam goreng dengan sambal pedas,False
+115,23,Bakso,13596,Ikan bakar dengan sambal kecap,False
+116,43,Gado-Gado,22977,Mie kuning dengan ayam dan pangsit,True
+117,50,Bakso,28212,Sayur-sayuran dengan saus kacang,True
+118,11,Ikan Bakar,23100,Lontong dengan kuah santan dan sayuran,False
+119,4,Mie Ayam,37354,"Nasi dengan lauk rendang, gulai, atau sambal",False
+120,7,Mie Ayam,43069,Mie kuning dengan ayam dan pangsit,True
+121,28,Soto Ayam,47038,Ikan bakar dengan sambal kecap,True
+122,38,Gado-Gado,39580,Lontong dengan kuah santan dan sayuran,True
+123,6,Rendang,26753,Ayam goreng dengan sambal pedas,False
+124,28,Ikan Bakar,19420,Lontong dengan kuah santan dan sayuran,False
+125,22,Lontong Sayur,33979,Bakso sapi dengan kuah kaldu,False
+126,40,Nasi Goreng,22274,Lontong dengan kuah santan dan sayuran,False
+127,42,Nasi Padang,41032,Ikan bakar dengan sambal kecap,True
+128,42,Bakso,30551,Bakso sapi dengan kuah kaldu,True
+129,24,Mie Ayam,19640,Lontong dengan kuah santan dan sayuran,True
+130,21,Bakso,15068,Lontong dengan kuah santan dan sayuran,False
+131,40,Soto Ayam,49886,Ayam goreng dengan sambal pedas,False
+132,35,Gado-Gado,33737,Ikan bakar dengan sambal kecap,False
+133,43,Rendang,22925,Nasi goreng khas dengan telur dan ayam,False
+134,45,Ikan Bakar,16720,Bakso sapi dengan kuah kaldu,False
+135,38,Rendang,13457,Sayur-sayuran dengan saus kacang,True
+136,7,Soto Ayam,32993,Bakso sapi dengan kuah kaldu,False
+137,50,Soto Ayam,29112,Kuah kuning dengan ayam suwir dan koya,True
+138,28,Ikan Bakar,43814,Ikan bakar dengan sambal kecap,True
+139,27,Nasi Goreng,36232,Daging sapi yang dimasak dengan bumbu khas,True
+140,43,Nasi Goreng,47207,Ayam goreng dengan sambal pedas,True
+141,48,Lontong Sayur,43947,Sayur-sayuran dengan saus kacang,False
+142,17,Gado-Gado,32638,Nasi goreng khas dengan telur dan ayam,False
+143,35,Ayam Geprek,28174,Daging sapi yang dimasak dengan bumbu khas,False
+144,42,Nasi Goreng,36808,Sayur-sayuran dengan saus kacang,True
+145,2,Nasi Padang,41615,Ikan bakar dengan sambal kecap,True
+146,19,Nasi Padang,41702,Ikan bakar dengan sambal kecap,True
+147,25,Nasi Padang,25541,Bakso sapi dengan kuah kaldu,False
+148,49,Ikan Bakar,46752,Mie kuning dengan ayam dan pangsit,False
+149,11,Mie Ayam,10315,Mie kuning dengan ayam dan pangsit,True
+150,47,Nasi Goreng,29106,Sayur-sayuran dengan saus kacang,True
+151,30,Mie Ayam,11837,Ikan bakar dengan sambal kecap,True
+152,24,Ikan Bakar,28825,Lontong dengan kuah santan dan sayuran,True
+153,37,Gado-Gado,37446,Lontong dengan kuah santan dan sayuran,True
+154,48,Lontong Sayur,10016,Ikan bakar dengan sambal kecap,True
+155,6,Ikan Bakar,37250,Ikan bakar dengan sambal kecap,True
+156,26,Ayam Geprek,32711,Mie kuning dengan ayam dan pangsit,False
+157,47,Lontong Sayur,27397,"Nasi dengan lauk rendang, gulai, atau sambal",True
+158,33,Nasi Padang,49411,Ikan bakar dengan sambal kecap,False
+159,48,Lontong Sayur,19179,Ayam goreng dengan sambal pedas,False
+160,38,Mie Ayam,34549,Nasi goreng khas dengan telur dan ayam,True
+161,10,Rendang,41740,Daging sapi yang dimasak dengan bumbu khas,True
+162,43,Nasi Padang,40495,Daging sapi yang dimasak dengan bumbu khas,False
+163,24,Lontong Sayur,45879,Nasi goreng khas dengan telur dan ayam,True
+164,25,Ikan Bakar,49976,Nasi goreng khas dengan telur dan ayam,False
+165,14,Ikan Bakar,39445,Bakso sapi dengan kuah kaldu,True
+166,39,Rendang,37382,"Nasi dengan lauk rendang, gulai, atau sambal",True
+167,19,Soto Ayam,20490,Ikan bakar dengan sambal kecap,True
+168,3,Nasi Padang,21968,Kuah kuning dengan ayam suwir dan koya,False
+169,28,Nasi Padang,25662,Lontong dengan kuah santan dan sayuran,True
+170,6,Gado-Gado,17937,"Nasi dengan lauk rendang, gulai, atau sambal",True
+171,35,Ayam Geprek,35286,Nasi goreng khas dengan telur dan ayam,False
+172,8,Mie Ayam,41671,Lontong dengan kuah santan dan sayuran,False
+173,10,Bakso,11955,Mie kuning dengan ayam dan pangsit,True
+174,22,Soto Ayam,40425,Ikan bakar dengan sambal kecap,True
+175,25,Ayam Geprek,12115,Ikan bakar dengan sambal kecap,True
+176,5,Nasi Goreng,15417,Lontong dengan kuah santan dan sayuran,True
+177,15,Rendang,17404,Kuah kuning dengan ayam suwir dan koya,True
+178,21,Soto Ayam,42051,Ayam goreng dengan sambal pedas,False
+179,37,Nasi Padang,22292,"Nasi dengan lauk rendang, gulai, atau sambal",True
+180,6,Ayam Geprek,18420,Sayur-sayuran dengan saus kacang,True
+181,42,Rendang,19161,Nasi goreng khas dengan telur dan ayam,False
+182,13,Bakso,12478,Ayam goreng dengan sambal pedas,False
+183,35,Ikan Bakar,22716,Kuah kuning dengan ayam suwir dan koya,False
+184,21,Bakso,34138,Bakso sapi dengan kuah kaldu,False
+185,31,Gado-Gado,15808,Daging sapi yang dimasak dengan bumbu khas,False
+186,7,Bakso,39776,Lontong dengan kuah santan dan sayuran,False
+187,38,Mie Ayam,22613,Lontong dengan kuah santan dan sayuran,True
+188,25,Rendang,33399,Bakso sapi dengan kuah kaldu,False
+189,21,Bakso,40505,Kuah kuning dengan ayam suwir dan koya,False
+190,12,Bakso,47572,Mie kuning dengan ayam dan pangsit,True
+191,17,Bakso,48958,Bakso sapi dengan kuah kaldu,True
+192,10,Ikan Bakar,43871,Daging sapi yang dimasak dengan bumbu khas,False
+193,36,Lontong Sayur,26317,Ayam goreng dengan sambal pedas,False
+194,9,Nasi Padang,47794,Ikan bakar dengan sambal kecap,False
+195,7,Ikan Bakar,26115,Ayam goreng dengan sambal pedas,False
+196,10,Soto Ayam,16197,Daging sapi yang dimasak dengan bumbu khas,True
+197,25,Ikan Bakar,49003,Ikan bakar dengan sambal kecap,True
+198,39,Ayam Geprek,14489,Ikan bakar dengan sambal kecap,False
+199,41,Rendang,24079,Lontong dengan kuah santan dan sayuran,True
+200,44,Mie Ayam,30226,Bakso sapi dengan kuah kaldu,True
+201,32,Mie Ayam,43352,Ayam goreng dengan sambal pedas,False
+202,36,Nasi Padang,29598,Mie kuning dengan ayam dan pangsit,True
+203,26,Mie Ayam,40627,Kuah kuning dengan ayam suwir dan koya,False
+204,13,Nasi Goreng,34775,Sayur-sayuran dengan saus kacang,True
+205,1,Gado-Gado,41849,"Nasi dengan lauk rendang, gulai, atau sambal",True
+206,16,Mie Ayam,47012,Bakso sapi dengan kuah kaldu,True
+207,35,Gado-Gado,19026,Ayam goreng dengan sambal pedas,True
+208,30,Nasi Goreng,29095,Sayur-sayuran dengan saus kacang,True
+209,36,Ayam Geprek,46976,Kuah kuning dengan ayam suwir dan koya,False
+210,22,Bakso,20565,Sayur-sayuran dengan saus kacang,True
+211,29,Rendang,43554,Ayam goreng dengan sambal pedas,True
+212,38,Lontong Sayur,17108,Mie kuning dengan ayam dan pangsit,False
+213,30,Ikan Bakar,46812,Ikan bakar dengan sambal kecap,True
+214,44,Mie Ayam,27431,Daging sapi yang dimasak dengan bumbu khas,True
+215,28,Lontong Sayur,10760,Nasi goreng khas dengan telur dan ayam,True
+216,32,Rendang,39256,Ikan bakar dengan sambal kecap,False
+217,14,Nasi Padang,32454,Mie kuning dengan ayam dan pangsit,False
+218,26,Soto Ayam,45841,Mie kuning dengan ayam dan pangsit,False
+219,2,Ikan Bakar,29608,Bakso sapi dengan kuah kaldu,True
+220,9,Gado-Gado,40691,Daging sapi yang dimasak dengan bumbu khas,False
+221,36,Nasi Goreng,34688,"Nasi dengan lauk rendang, gulai, atau sambal",True
+222,4,Soto Ayam,22059,Kuah kuning dengan ayam suwir dan koya,False
+223,18,Soto Ayam,19316,Ikan bakar dengan sambal kecap,True
+224,40,Mie Ayam,42127,Lontong dengan kuah santan dan sayuran,False
+225,21,Nasi Padang,25395,Sayur-sayuran dengan saus kacang,True
+226,44,Nasi Goreng,14981,Nasi goreng khas dengan telur dan ayam,True
+227,10,Gado-Gado,42710,Ikan bakar dengan sambal kecap,False
+228,28,Ikan Bakar,24008,Ayam goreng dengan sambal pedas,True
+229,44,Bakso,26749,Mie kuning dengan ayam dan pangsit,True
+230,34,Soto Ayam,33201,"Nasi dengan lauk rendang, gulai, atau sambal",True
+231,30,Ikan Bakar,16649,Bakso sapi dengan kuah kaldu,False
+232,20,Mie Ayam,29796,Sayur-sayuran dengan saus kacang,False
+233,9,Rendang,24536,"Nasi dengan lauk rendang, gulai, atau sambal",True
+234,20,Nasi Goreng,33094,Bakso sapi dengan kuah kaldu,True
+235,17,Nasi Padang,34390,Bakso sapi dengan kuah kaldu,False
+236,22,Ayam Geprek,15602,Ayam goreng dengan sambal pedas,False
+237,46,Lontong Sayur,27858,Daging sapi yang dimasak dengan bumbu khas,False
+238,12,Ayam Geprek,35485,Ayam goreng dengan sambal pedas,False
+239,47,Lontong Sayur,36986,Sayur-sayuran dengan saus kacang,False
+240,7,Rendang,46842,"Nasi dengan lauk rendang, gulai, atau sambal",True
+241,25,Nasi Padang,41820,Mie kuning dengan ayam dan pangsit,False
+242,40,Gado-Gado,30757,Sayur-sayuran dengan saus kacang,False
+243,22,Lontong Sayur,31781,Mie kuning dengan ayam dan pangsit,False
+244,12,Mie Ayam,15186,"Nasi dengan lauk rendang, gulai, atau sambal",True
+245,42,Ikan Bakar,21904,Sayur-sayuran dengan saus kacang,True
+246,34,Ikan Bakar,31153,"Nasi dengan lauk rendang, gulai, atau sambal",True
+247,21,Ayam Geprek,31152,Kuah kuning dengan ayam suwir dan koya,True
+248,20,Rendang,37092,Bakso sapi dengan kuah kaldu,False
+249,43,Ayam Geprek,41997,Sayur-sayuran dengan saus kacang,False
+250,6,Gado-Gado,24710,Mie kuning dengan ayam dan pangsit,False
+251,16,Nasi Padang,18444,Nasi goreng khas dengan telur dan ayam,False
+252,24,Bakso,17781,Sayur-sayuran dengan saus kacang,True
+253,48,Mie Ayam,22153,Lontong dengan kuah santan dan sayuran,True
+254,31,Ayam Geprek,28675,Ikan bakar dengan sambal kecap,True
+255,44,Ikan Bakar,43230,Lontong dengan kuah santan dan sayuran,False
+256,11,Gado-Gado,40051,Ikan bakar dengan sambal kecap,False
+257,22,Bakso,14874,Nasi goreng khas dengan telur dan ayam,False
+258,39,Rendang,25971,Kuah kuning dengan ayam suwir dan koya,True
+259,4,Ayam Geprek,41073,Lontong dengan kuah santan dan sayuran,False
+260,9,Lontong Sayur,13545,Mie kuning dengan ayam dan pangsit,True
+261,14,Nasi Goreng,34792,Kuah kuning dengan ayam suwir dan koya,True
+262,50,Nasi Goreng,29804,Daging sapi yang dimasak dengan bumbu khas,True
+263,50,Ikan Bakar,42862,"Nasi dengan lauk rendang, gulai, atau sambal",False
+264,26,Ayam Geprek,20401,Bakso sapi dengan kuah kaldu,True
+265,34,Gado-Gado,42805,Ikan bakar dengan sambal kecap,False
+266,35,Nasi Goreng,18437,Ikan bakar dengan sambal kecap,False
+267,17,Rendang,13223,Ayam goreng dengan sambal pedas,False
+268,36,Ayam Geprek,12899,Kuah kuning dengan ayam suwir dan koya,True
+269,22,Bakso,33757,Kuah kuning dengan ayam suwir dan koya,False
+270,38,Rendang,35628,Bakso sapi dengan kuah kaldu,False
+271,14,Soto Ayam,34498,Ayam goreng dengan sambal pedas,True
+272,17,Mie Ayam,12226,"Nasi dengan lauk rendang, gulai, atau sambal",True
+273,49,Soto Ayam,38587,Sayur-sayuran dengan saus kacang,False
+274,11,Bakso,30129,Sayur-sayuran dengan saus kacang,True
+275,35,Bakso,25741,Mie kuning dengan ayam dan pangsit,False
+276,9,Ikan Bakar,13921,Sayur-sayuran dengan saus kacang,False
+277,25,Rendang,44124,Ikan bakar dengan sambal kecap,True
+278,42,Nasi Padang,37601,Nasi goreng khas dengan telur dan ayam,False
+279,26,Gado-Gado,23225,Lontong dengan kuah santan dan sayuran,True
+280,40,Lontong Sayur,17135,Sayur-sayuran dengan saus kacang,False
+281,44,Ayam Geprek,27174,Kuah kuning dengan ayam suwir dan koya,False
+282,50,Mie Ayam,33297,Mie kuning dengan ayam dan pangsit,False
+283,36,Rendang,32430,Daging sapi yang dimasak dengan bumbu khas,True
+284,49,Mie Ayam,35396,"Nasi dengan lauk rendang, gulai, atau sambal",False
+285,27,Nasi Padang,18374,"Nasi dengan lauk rendang, gulai, atau sambal",False
+286,4,Nasi Goreng,26104,Ayam goreng dengan sambal pedas,True
+287,3,Mie Ayam,14490,Mie kuning dengan ayam dan pangsit,False
+288,47,Ikan Bakar,47850,Ikan bakar dengan sambal kecap,True
+289,33,Mie Ayam,45821,Sayur-sayuran dengan saus kacang,True
+290,23,Nasi Goreng,33278,Nasi goreng khas dengan telur dan ayam,False
+291,13,Nasi Padang,42609,Ikan bakar dengan sambal kecap,False
+292,42,Ikan Bakar,11552,Daging sapi yang dimasak dengan bumbu khas,True
+293,39,Bakso,23797,Sayur-sayuran dengan saus kacang,True
+294,16,Bakso,23023,Sayur-sayuran dengan saus kacang,False
+295,38,Ayam Geprek,49866,Bakso sapi dengan kuah kaldu,True
+296,34,Lontong Sayur,26820,Ikan bakar dengan sambal kecap,True
+297,8,Ayam Geprek,26607,Mie kuning dengan ayam dan pangsit,False
+298,11,Bakso,24595,Mie kuning dengan ayam dan pangsit,True
+299,47,Soto Ayam,44276,Kuah kuning dengan ayam suwir dan koya,False
+300,8,Mie Ayam,13483,Kuah kuning dengan ayam suwir dan koya,False
+301,14,Lontong Sayur,27549,"Nasi dengan lauk rendang, gulai, atau sambal",False
+302,17,Mie Ayam,41289,Mie kuning dengan ayam dan pangsit,True
+303,10,Ikan Bakar,49724,Ayam goreng dengan sambal pedas,False
+304,28,Mie Ayam,18069,Ayam goreng dengan sambal pedas,False
+305,15,Rendang,40943,"Nasi dengan lauk rendang, gulai, atau sambal",True
+306,38,Ikan Bakar,21583,Bakso sapi dengan kuah kaldu,True
+307,20,Gado-Gado,49991,Lontong dengan kuah santan dan sayuran,False
+308,19,Nasi Padang,32553,Ikan bakar dengan sambal kecap,False
+309,41,Lontong Sayur,38121,Nasi goreng khas dengan telur dan ayam,True
+310,29,Ayam Geprek,16246,Sayur-sayuran dengan saus kacang,False
+311,37,Nasi Padang,11922,Nasi goreng khas dengan telur dan ayam,False
+312,18,Gado-Gado,49438,Ayam goreng dengan sambal pedas,False
+313,35,Nasi Goreng,46854,Ayam goreng dengan sambal pedas,False
+314,10,Ikan Bakar,21981,Ayam goreng dengan sambal pedas,True
+315,50,Lontong Sayur,32584,Daging sapi yang dimasak dengan bumbu khas,True
+316,49,Bakso,41560,Daging sapi yang dimasak dengan bumbu khas,True
+317,35,Nasi Padang,41687,Daging sapi yang dimasak dengan bumbu khas,True
+318,23,Soto Ayam,40398,Lontong dengan kuah santan dan sayuran,True
+319,11,Gado-Gado,46745,Lontong dengan kuah santan dan sayuran,True
+320,22,Soto Ayam,16772,Nasi goreng khas dengan telur dan ayam,True
+321,25,Lontong Sayur,14989,"Nasi dengan lauk rendang, gulai, atau sambal",False
+322,1,Nasi Padang,16290,Nasi goreng khas dengan telur dan ayam,False
+323,31,Nasi Goreng,16121,Sayur-sayuran dengan saus kacang,False
+324,31,Ikan Bakar,23493,Mie kuning dengan ayam dan pangsit,True
+325,27,Nasi Padang,18963,Ayam goreng dengan sambal pedas,False
+326,27,Soto Ayam,19502,Ayam goreng dengan sambal pedas,True
+327,30,Nasi Goreng,27771,Ayam goreng dengan sambal pedas,True
+328,15,Soto Ayam,34583,Sayur-sayuran dengan saus kacang,True
+329,9,Ikan Bakar,49804,Kuah kuning dengan ayam suwir dan koya,False
+330,38,Gado-Gado,18626,Nasi goreng khas dengan telur dan ayam,False
+331,16,Ayam Geprek,19299,"Nasi dengan lauk rendang, gulai, atau sambal",False
+332,33,Mie Ayam,18701,Nasi goreng khas dengan telur dan ayam,True
+333,37,Nasi Goreng,25442,Bakso sapi dengan kuah kaldu,True
+334,2,Lontong Sayur,24729,Kuah kuning dengan ayam suwir dan koya,True
+335,22,Ayam Geprek,34776,Kuah kuning dengan ayam suwir dan koya,True
+336,42,Lontong Sayur,13633,Bakso sapi dengan kuah kaldu,True
+337,29,Ikan Bakar,20106,Ayam goreng dengan sambal pedas,False
+338,26,Soto Ayam,38025,Bakso sapi dengan kuah kaldu,False
+339,25,Nasi Goreng,25461,"Nasi dengan lauk rendang, gulai, atau sambal",False
+340,33,Soto Ayam,40041,Ayam goreng dengan sambal pedas,False
+341,44,Ikan Bakar,48898,Lontong dengan kuah santan dan sayuran,False
+342,38,Rendang,34800,Kuah kuning dengan ayam suwir dan koya,True
+343,9,Ayam Geprek,16927,Mie kuning dengan ayam dan pangsit,False
+344,28,Lontong Sayur,41518,Bakso sapi dengan kuah kaldu,False
+345,17,Ikan Bakar,42911,Sayur-sayuran dengan saus kacang,False
+346,31,Soto Ayam,30531,Ayam goreng dengan sambal pedas,True
+347,3,Gado-Gado,38311,Lontong dengan kuah santan dan sayuran,False
+348,19,Bakso,30915,Daging sapi yang dimasak dengan bumbu khas,False
+349,6,Gado-Gado,34932,Lontong dengan kuah santan dan sayuran,False
+350,27,Soto Ayam,11672,"Nasi dengan lauk rendang, gulai, atau sambal",False
+351,41,Nasi Goreng,42424,Bakso sapi dengan kuah kaldu,True
+352,19,Gado-Gado,34703,Lontong dengan kuah santan dan sayuran,True
+353,28,Ayam Geprek,18160,Nasi goreng khas dengan telur dan ayam,True
+354,20,Ikan Bakar,27235,Kuah kuning dengan ayam suwir dan koya,False
+355,30,Bakso,16342,Daging sapi yang dimasak dengan bumbu khas,False
+356,2,Nasi Goreng,34882,Lontong dengan kuah santan dan sayuran,True
+357,29,Gado-Gado,31945,Mie kuning dengan ayam dan pangsit,False
+358,26,Ikan Bakar,17939,Lontong dengan kuah santan dan sayuran,True
+359,17,Soto Ayam,48028,Daging sapi yang dimasak dengan bumbu khas,True
+360,11,Lontong Sayur,30025,Mie kuning dengan ayam dan pangsit,True
+361,34,Bakso,42277,Kuah kuning dengan ayam suwir dan koya,True
+362,2,Nasi Goreng,20739,Daging sapi yang dimasak dengan bumbu khas,True
+363,12,Lontong Sayur,22397,Sayur-sayuran dengan saus kacang,True
+364,42,Nasi Padang,27334,Kuah kuning dengan ayam suwir dan koya,False
+365,11,Nasi Padang,30003,Bakso sapi dengan kuah kaldu,False
+366,26,Rendang,13055,Bakso sapi dengan kuah kaldu,False
+367,44,Mie Ayam,19589,"Nasi dengan lauk rendang, gulai, atau sambal",True
+368,13,Bakso,35313,Nasi goreng khas dengan telur dan ayam,True
+369,22,Ikan Bakar,31163,Ikan bakar dengan sambal kecap,True
+370,18,Gado-Gado,17788,Ikan bakar dengan sambal kecap,False
+371,27,Bakso,15259,Sayur-sayuran dengan saus kacang,False
+372,6,Ikan Bakar,18833,Sayur-sayuran dengan saus kacang,False
+373,1,Ayam Geprek,10349,Ayam goreng dengan sambal pedas,True
+374,30,Rendang,11502,Ayam goreng dengan sambal pedas,False
+375,36,Rendang,48337,"Nasi dengan lauk rendang, gulai, atau sambal",False
+376,6,Ikan Bakar,27466,Mie kuning dengan ayam dan pangsit,True
+377,43,Mie Ayam,48882,Lontong dengan kuah santan dan sayuran,True
+378,30,Gado-Gado,14137,Kuah kuning dengan ayam suwir dan koya,True
+379,20,Bakso,31091,Bakso sapi dengan kuah kaldu,True
+380,44,Gado-Gado,42185,Nasi goreng khas dengan telur dan ayam,True
+381,46,Soto Ayam,37788,Ikan bakar dengan sambal kecap,True
+382,34,Mie Ayam,47175,Kuah kuning dengan ayam suwir dan koya,True
+383,36,Ayam Geprek,25808,Kuah kuning dengan ayam suwir dan koya,True
+384,39,Nasi Padang,22670,Bakso sapi dengan kuah kaldu,False
+385,34,Nasi Goreng,33171,Kuah kuning dengan ayam suwir dan koya,False
+386,27,Lontong Sayur,18666,Kuah kuning dengan ayam suwir dan koya,False
+387,26,Nasi Padang,14861,"Nasi dengan lauk rendang, gulai, atau sambal",True
+388,24,Nasi Goreng,23300,Sayur-sayuran dengan saus kacang,False
+389,24,Nasi Goreng,38175,Mie kuning dengan ayam dan pangsit,False
+390,32,Nasi Padang,37054,Kuah kuning dengan ayam suwir dan koya,True
+391,14,Bakso,44942,Sayur-sayuran dengan saus kacang,True
+392,4,Bakso,41848,Kuah kuning dengan ayam suwir dan koya,True
+393,23,Nasi Goreng,42165,Daging sapi yang dimasak dengan bumbu khas,False
+394,19,Ayam Geprek,41143,"Nasi dengan lauk rendang, gulai, atau sambal",False
+395,13,Lontong Sayur,21979,Kuah kuning dengan ayam suwir dan koya,True
+396,17,Gado-Gado,41859,Kuah kuning dengan ayam suwir dan koya,True
+397,6,Nasi Goreng,34823,"Nasi dengan lauk rendang, gulai, atau sambal",True
+398,9,Ikan Bakar,37444,Mie kuning dengan ayam dan pangsit,True
+399,8,Gado-Gado,28800,Lontong dengan kuah santan dan sayuran,True
+400,46,Ikan Bakar,26446,"Nasi dengan lauk rendang, gulai, atau sambal",True
+401,10,Bakso,42901,Lontong dengan kuah santan dan sayuran,False
+402,22,Ikan Bakar,38646,Sayur-sayuran dengan saus kacang,False
+403,31,Gado-Gado,21972,Nasi goreng khas dengan telur dan ayam,True
+404,48,Mie Ayam,49796,Sayur-sayuran dengan saus kacang,True
+405,14,Lontong Sayur,22486,Ikan bakar dengan sambal kecap,True
+406,23,Ikan Bakar,32159,Nasi goreng khas dengan telur dan ayam,False
+407,48,Lontong Sayur,22248,Nasi goreng khas dengan telur dan ayam,True
+408,44,Ayam Geprek,49721,Ayam goreng dengan sambal pedas,False
+409,11,Nasi Goreng,28608,Lontong dengan kuah santan dan sayuran,False
+410,2,Nasi Padang,15092,Lontong dengan kuah santan dan sayuran,True
+411,29,Ikan Bakar,32027,Mie kuning dengan ayam dan pangsit,True
+412,11,Mie Ayam,32389,Kuah kuning dengan ayam suwir dan koya,False
+413,46,Ayam Geprek,40178,Nasi goreng khas dengan telur dan ayam,True
+414,48,Lontong Sayur,20568,"Nasi dengan lauk rendang, gulai, atau sambal",False
+415,4,Gado-Gado,42001,Ayam goreng dengan sambal pedas,False
+416,41,Bakso,30359,Bakso sapi dengan kuah kaldu,False
+417,32,Mie Ayam,41441,Ayam goreng dengan sambal pedas,False
+418,20,Lontong Sayur,30075,Sayur-sayuran dengan saus kacang,True
+419,43,Soto Ayam,36780,Bakso sapi dengan kuah kaldu,False
+420,50,Soto Ayam,23377,"Nasi dengan lauk rendang, gulai, atau sambal",True
+421,7,Lontong Sayur,38932,Ikan bakar dengan sambal kecap,False
+422,33,Bakso,38666,"Nasi dengan lauk rendang, gulai, atau sambal",True
+423,23,Mie Ayam,16494,Sayur-sayuran dengan saus kacang,True
+424,9,Bakso,38791,Kuah kuning dengan ayam suwir dan koya,True
+425,6,Ikan Bakar,15804,Bakso sapi dengan kuah kaldu,False
+426,26,Bakso,18999,Ayam goreng dengan sambal pedas,False
+427,48,Mie Ayam,19851,Kuah kuning dengan ayam suwir dan koya,True
+428,40,Rendang,48198,Daging sapi yang dimasak dengan bumbu khas,True
+429,23,Rendang,23654,Daging sapi yang dimasak dengan bumbu khas,False
+430,20,Rendang,20528,Nasi goreng khas dengan telur dan ayam,True
+431,35,Bakso,33792,Kuah kuning dengan ayam suwir dan koya,True
+432,1,Nasi Padang,22904,Sayur-sayuran dengan saus kacang,True
+433,14,Nasi Padang,44116,Nasi goreng khas dengan telur dan ayam,True
+434,46,Rendang,31608,Ayam goreng dengan sambal pedas,True
+435,35,Lontong Sayur,37812,Bakso sapi dengan kuah kaldu,False
+436,33,Ikan Bakar,47383,"Nasi dengan lauk rendang, gulai, atau sambal",True
+437,19,Rendang,33273,Nasi goreng khas dengan telur dan ayam,True
+438,27,Mie Ayam,18202,Sayur-sayuran dengan saus kacang,True
+439,31,Nasi Padang,40821,Sayur-sayuran dengan saus kacang,False
+440,29,Mie Ayam,17121,Kuah kuning dengan ayam suwir dan koya,True
+441,19,Lontong Sayur,44687,"Nasi dengan lauk rendang, gulai, atau sambal",False
+442,23,Soto Ayam,24727,"Nasi dengan lauk rendang, gulai, atau sambal",True
+443,31,Mie Ayam,13035,"Nasi dengan lauk rendang, gulai, atau sambal",False
+444,8,Nasi Goreng,18123,Bakso sapi dengan kuah kaldu,False
+445,15,Bakso,29514,Nasi goreng khas dengan telur dan ayam,False
+446,4,Nasi Goreng,16956,Daging sapi yang dimasak dengan bumbu khas,False
+447,41,Nasi Padang,26961,Bakso sapi dengan kuah kaldu,True
+448,35,Nasi Goreng,45952,Lontong dengan kuah santan dan sayuran,False
+449,42,Ikan Bakar,41108,Nasi goreng khas dengan telur dan ayam,True
+450,44,Nasi Padang,10399,"Nasi dengan lauk rendang, gulai, atau sambal",False
+451,46,Lontong Sayur,17197,Bakso sapi dengan kuah kaldu,True
+452,23,Rendang,20037,Sayur-sayuran dengan saus kacang,False
+453,8,Bakso,17742,Bakso sapi dengan kuah kaldu,True
+454,18,Ayam Geprek,47287,Ikan bakar dengan sambal kecap,False
+455,33,Soto Ayam,30892,Nasi goreng khas dengan telur dan ayam,True
+456,2,Gado-Gado,22199,Nasi goreng khas dengan telur dan ayam,False
+457,23,Gado-Gado,39649,Ikan bakar dengan sambal kecap,False
+458,31,Nasi Padang,32912,Nasi goreng khas dengan telur dan ayam,False
+459,49,Mie Ayam,35609,Ikan bakar dengan sambal kecap,True
+460,28,Mie Ayam,46591,"Nasi dengan lauk rendang, gulai, atau sambal",False
+461,5,Bakso,40934,"Nasi dengan lauk rendang, gulai, atau sambal",True
+462,31,Nasi Padang,13995,Sayur-sayuran dengan saus kacang,False
+463,2,Mie Ayam,34441,Bakso sapi dengan kuah kaldu,False
+464,48,Bakso,49791,Nasi goreng khas dengan telur dan ayam,False
+465,27,Ayam Geprek,24250,Ikan bakar dengan sambal kecap,False
+466,43,Ayam Geprek,20554,Daging sapi yang dimasak dengan bumbu khas,False
+467,7,Rendang,15575,Daging sapi yang dimasak dengan bumbu khas,True
+468,17,Nasi Padang,16256,Sayur-sayuran dengan saus kacang,True
+469,48,Soto Ayam,45427,Daging sapi yang dimasak dengan bumbu khas,True
+470,6,Soto Ayam,16488,Bakso sapi dengan kuah kaldu,True
+471,4,Nasi Goreng,49574,Ayam goreng dengan sambal pedas,False
+472,34,Nasi Padang,19815,Mie kuning dengan ayam dan pangsit,False
+473,49,Rendang,35322,Bakso sapi dengan kuah kaldu,False
+474,3,Ikan Bakar,17409,Lontong dengan kuah santan dan sayuran,True
+475,16,Ikan Bakar,14534,Bakso sapi dengan kuah kaldu,False
+476,42,Ikan Bakar,27331,Mie kuning dengan ayam dan pangsit,True
+477,36,Ikan Bakar,13373,Ayam goreng dengan sambal pedas,True
+478,34,Mie Ayam,37158,"Nasi dengan lauk rendang, gulai, atau sambal",False
+479,5,Ayam Geprek,30524,Bakso sapi dengan kuah kaldu,True
+480,5,Lontong Sayur,37196,Mie kuning dengan ayam dan pangsit,False
+481,44,Lontong Sayur,32683,Nasi goreng khas dengan telur dan ayam,False
+482,23,Soto Ayam,29001,Ayam goreng dengan sambal pedas,True
+483,28,Mie Ayam,28070,Nasi goreng khas dengan telur dan ayam,True
+484,26,Nasi Padang,33615,Daging sapi yang dimasak dengan bumbu khas,True
+485,39,Nasi Padang,23753,Mie kuning dengan ayam dan pangsit,False
+486,45,Nasi Padang,44624,"Nasi dengan lauk rendang, gulai, atau sambal",True
+487,17,Nasi Goreng,11727,Nasi goreng khas dengan telur dan ayam,True
+488,43,Ayam Geprek,25791,Mie kuning dengan ayam dan pangsit,True
+489,10,Bakso,36713,Ikan bakar dengan sambal kecap,True
+490,36,Soto Ayam,10174,Kuah kuning dengan ayam suwir dan koya,False
+491,46,Nasi Goreng,25692,Daging sapi yang dimasak dengan bumbu khas,False
+492,41,Ikan Bakar,34267,Ikan bakar dengan sambal kecap,True
+493,33,Rendang,22709,Kuah kuning dengan ayam suwir dan koya,False
+494,17,Soto Ayam,49939,Daging sapi yang dimasak dengan bumbu khas,True
+495,23,Lontong Sayur,45152,Ayam goreng dengan sambal pedas,False
+496,15,Nasi Padang,34819,Bakso sapi dengan kuah kaldu,False
+497,47,Nasi Goreng,40706,Ayam goreng dengan sambal pedas,True
+498,28,Mie Ayam,18768,Mie kuning dengan ayam dan pangsit,False
+499,21,Lontong Sayur,29123,Kuah kuning dengan ayam suwir dan koya,True
+500,18,Nasi Goreng,48256,Ayam goreng dengan sambal pedas,False
+501,44,Gado-Gado,11858,Ayam goreng dengan sambal pedas,True
+502,9,Ikan Bakar,48771,Bakso sapi dengan kuah kaldu,True
+503,9,Ikan Bakar,31241,Lontong dengan kuah santan dan sayuran,True
+504,37,Nasi Padang,17196,Sayur-sayuran dengan saus kacang,False
+505,48,Nasi Goreng,26894,Sayur-sayuran dengan saus kacang,True
+506,14,Ayam Geprek,11196,Mie kuning dengan ayam dan pangsit,True
+507,11,Nasi Goreng,47069,Lontong dengan kuah santan dan sayuran,False
+508,26,Ayam Geprek,27946,"Nasi dengan lauk rendang, gulai, atau sambal",True
+509,39,Nasi Padang,43474,Nasi goreng khas dengan telur dan ayam,False
+510,31,Bakso,16634,Ayam goreng dengan sambal pedas,False
+511,20,Nasi Padang,30108,Ayam goreng dengan sambal pedas,True
+512,23,Soto Ayam,20131,Bakso sapi dengan kuah kaldu,True
+513,50,Lontong Sayur,40352,Mie kuning dengan ayam dan pangsit,False
+514,3,Soto Ayam,21250,Bakso sapi dengan kuah kaldu,True
+515,45,Nasi Goreng,35545,Daging sapi yang dimasak dengan bumbu khas,False
+516,9,Rendang,38594,Mie kuning dengan ayam dan pangsit,False
+517,47,Ikan Bakar,32684,"Nasi dengan lauk rendang, gulai, atau sambal",True
+518,1,Ayam Geprek,26396,Lontong dengan kuah santan dan sayuran,False
+519,46,Bakso,43370,Ayam goreng dengan sambal pedas,True
+520,12,Nasi Padang,44328,Ikan bakar dengan sambal kecap,False
+521,25,Rendang,46414,Ikan bakar dengan sambal kecap,True
+522,20,Mie Ayam,31249,Ikan bakar dengan sambal kecap,True
+523,24,Ikan Bakar,26870,Bakso sapi dengan kuah kaldu,True
+524,48,Bakso,13125,Mie kuning dengan ayam dan pangsit,True
+525,3,Ikan Bakar,31241,Daging sapi yang dimasak dengan bumbu khas,False
+526,5,Ikan Bakar,29758,Bakso sapi dengan kuah kaldu,False
+527,24,Nasi Goreng,20338,Mie kuning dengan ayam dan pangsit,False
+528,36,Bakso,18965,"Nasi dengan lauk rendang, gulai, atau sambal",True
+529,29,Nasi Goreng,14933,Bakso sapi dengan kuah kaldu,True
+530,11,Mie Ayam,44247,Sayur-sayuran dengan saus kacang,True
+531,3,Soto Ayam,33893,Mie kuning dengan ayam dan pangsit,True
+532,8,Nasi Goreng,11083,Ayam goreng dengan sambal pedas,False
+533,9,Nasi Padang,26632,Daging sapi yang dimasak dengan bumbu khas,True
+534,33,Mie Ayam,16041,Sayur-sayuran dengan saus kacang,False
+535,27,Soto Ayam,46694,Ikan bakar dengan sambal kecap,False
+536,8,Ikan Bakar,40699,Lontong dengan kuah santan dan sayuran,False
+537,34,Mie Ayam,19078,Ikan bakar dengan sambal kecap,False
+538,8,Nasi Goreng,18842,Lontong dengan kuah santan dan sayuran,False
+539,22,Gado-Gado,21021,"Nasi dengan lauk rendang, gulai, atau sambal",False
+540,44,Gado-Gado,27107,Daging sapi yang dimasak dengan bumbu khas,True
+541,48,Mie Ayam,24380,Daging sapi yang dimasak dengan bumbu khas,False
+542,16,Soto Ayam,41172,Mie kuning dengan ayam dan pangsit,False
+543,44,Nasi Padang,17266,Lontong dengan kuah santan dan sayuran,True
+544,37,Soto Ayam,44157,Nasi goreng khas dengan telur dan ayam,True
+545,49,Lontong Sayur,32279,Daging sapi yang dimasak dengan bumbu khas,True
+546,26,Soto Ayam,30198,Mie kuning dengan ayam dan pangsit,True
+547,24,Rendang,24484,Nasi goreng khas dengan telur dan ayam,True
+548,43,Ikan Bakar,48350,Bakso sapi dengan kuah kaldu,True
+549,46,Mie Ayam,20619,Ikan bakar dengan sambal kecap,False
+550,2,Gado-Gado,35464,Kuah kuning dengan ayam suwir dan koya,True
+551,5,Rendang,16518,Lontong dengan kuah santan dan sayuran,True
+552,39,Nasi Padang,19685,Ikan bakar dengan sambal kecap,False
+553,31,Ikan Bakar,32947,Kuah kuning dengan ayam suwir dan koya,True
+554,1,Bakso,43997,Bakso sapi dengan kuah kaldu,True
+555,41,Ayam Geprek,16033,Mie kuning dengan ayam dan pangsit,True
+556,15,Ayam Geprek,28863,Ayam goreng dengan sambal pedas,False
+557,42,Nasi Padang,29245,Ikan bakar dengan sambal kecap,True
+558,27,Lontong Sayur,37719,Sayur-sayuran dengan saus kacang,True
+559,28,Nasi Padang,16475,Ayam goreng dengan sambal pedas,False
+560,12,Mie Ayam,21371,"Nasi dengan lauk rendang, gulai, atau sambal",True
+561,29,Ayam Geprek,35634,Ayam goreng dengan sambal pedas,False
+562,2,Ikan Bakar,34678,Lontong dengan kuah santan dan sayuran,False
+563,16,Bakso,12344,"Nasi dengan lauk rendang, gulai, atau sambal",True
+564,43,Nasi Goreng,15389,Nasi goreng khas dengan telur dan ayam,True
+565,4,Lontong Sayur,22805,Mie kuning dengan ayam dan pangsit,False
+566,2,Rendang,19954,Nasi goreng khas dengan telur dan ayam,False
+567,30,Gado-Gado,49369,Ayam goreng dengan sambal pedas,True
+568,16,Bakso,39621,Lontong dengan kuah santan dan sayuran,True
+569,14,Ayam Geprek,20401,"Nasi dengan lauk rendang, gulai, atau sambal",False
+570,1,Nasi Goreng,24022,Daging sapi yang dimasak dengan bumbu khas,False
+571,30,Rendang,37515,Sayur-sayuran dengan saus kacang,False
+572,24,Gado-Gado,36639,Kuah kuning dengan ayam suwir dan koya,True
+573,41,Lontong Sayur,49621,Mie kuning dengan ayam dan pangsit,True
+574,11,Bakso,20187,Lontong dengan kuah santan dan sayuran,False
+575,21,Ikan Bakar,24141,"Nasi dengan lauk rendang, gulai, atau sambal",True
+576,23,Rendang,13865,Ayam goreng dengan sambal pedas,True
+577,4,Nasi Padang,15756,Sayur-sayuran dengan saus kacang,False
+578,14,Nasi Padang,23110,"Nasi dengan lauk rendang, gulai, atau sambal",True
+579,24,Nasi Padang,46841,"Nasi dengan lauk rendang, gulai, atau sambal",True
+580,40,Bakso,47601,Daging sapi yang dimasak dengan bumbu khas,True
+581,2,Lontong Sayur,22828,Ayam goreng dengan sambal pedas,True
+582,31,Bakso,21340,Nasi goreng khas dengan telur dan ayam,False
+583,17,Mie Ayam,20579,Bakso sapi dengan kuah kaldu,False
+584,41,Nasi Goreng,49437,Mie kuning dengan ayam dan pangsit,False
+585,13,Nasi Padang,16530,"Nasi dengan lauk rendang, gulai, atau sambal",False
+586,34,Gado-Gado,35587,Mie kuning dengan ayam dan pangsit,False
+587,27,Mie Ayam,39540,Lontong dengan kuah santan dan sayuran,True
+588,37,Mie Ayam,15660,Nasi goreng khas dengan telur dan ayam,False
+589,40,Gado-Gado,19003,Sayur-sayuran dengan saus kacang,True
+590,23,Gado-Gado,24292,Daging sapi yang dimasak dengan bumbu khas,True
+591,37,Mie Ayam,28585,Ikan bakar dengan sambal kecap,True
+592,41,Mie Ayam,44851,"Nasi dengan lauk rendang, gulai, atau sambal",False
+593,7,Gado-Gado,44665,Lontong dengan kuah santan dan sayuran,True
+594,40,Rendang,47729,Kuah kuning dengan ayam suwir dan koya,True
+595,43,Nasi Goreng,25716,Mie kuning dengan ayam dan pangsit,True
+596,32,Lontong Sayur,36520,Nasi goreng khas dengan telur dan ayam,True
+597,38,Nasi Goreng,48347,Bakso sapi dengan kuah kaldu,False
+598,10,Gado-Gado,36916,Bakso sapi dengan kuah kaldu,True
+599,17,Nasi Goreng,36748,Ikan bakar dengan sambal kecap,True
+600,15,Nasi Padang,16005,Ayam goreng dengan sambal pedas,False
+601,13,Ikan Bakar,19846,Lontong dengan kuah santan dan sayuran,False
+602,47,Ayam Geprek,41610,"Nasi dengan lauk rendang, gulai, atau sambal",False
+603,1,Ikan Bakar,23958,Lontong dengan kuah santan dan sayuran,True
+604,26,Ikan Bakar,28508,Lontong dengan kuah santan dan sayuran,True
+605,44,Gado-Gado,27497,"Nasi dengan lauk rendang, gulai, atau sambal",True
+606,34,Ikan Bakar,43695,Daging sapi yang dimasak dengan bumbu khas,False
+607,26,Gado-Gado,37510,"Nasi dengan lauk rendang, gulai, atau sambal",True
+608,12,Soto Ayam,37208,Kuah kuning dengan ayam suwir dan koya,True
+609,45,Mie Ayam,18332,Sayur-sayuran dengan saus kacang,True
+610,8,Rendang,15367,Ayam goreng dengan sambal pedas,True
+611,6,Nasi Goreng,49929,Nasi goreng khas dengan telur dan ayam,True
+612,3,Soto Ayam,37159,Sayur-sayuran dengan saus kacang,True
+613,25,Nasi Padang,47661,Nasi goreng khas dengan telur dan ayam,False
+614,30,Ikan Bakar,12956,Lontong dengan kuah santan dan sayuran,False
+615,23,Gado-Gado,32425,Bakso sapi dengan kuah kaldu,True
+616,45,Gado-Gado,40151,Ikan bakar dengan sambal kecap,True
+617,2,Lontong Sayur,31901,Kuah kuning dengan ayam suwir dan koya,False
+618,18,Lontong Sayur,24733,Sayur-sayuran dengan saus kacang,False
+619,12,Lontong Sayur,15806,Bakso sapi dengan kuah kaldu,False
+620,4,Mie Ayam,18546,Kuah kuning dengan ayam suwir dan koya,False
+621,35,Nasi Goreng,20282,Daging sapi yang dimasak dengan bumbu khas,True
+622,41,Rendang,46665,Lontong dengan kuah santan dan sayuran,False
+623,4,Rendang,48828,Ayam goreng dengan sambal pedas,True
+624,46,Ikan Bakar,25198,Nasi goreng khas dengan telur dan ayam,True
+625,20,Ikan Bakar,33643,Ayam goreng dengan sambal pedas,True
+626,25,Soto Ayam,24088,Bakso sapi dengan kuah kaldu,False
+627,32,Nasi Goreng,16564,Sayur-sayuran dengan saus kacang,False
+628,34,Soto Ayam,42127,Sayur-sayuran dengan saus kacang,False
+629,35,Lontong Sayur,45337,Bakso sapi dengan kuah kaldu,False
+630,27,Lontong Sayur,15534,Ikan bakar dengan sambal kecap,False
+631,8,Rendang,38374,Mie kuning dengan ayam dan pangsit,True
+632,44,Rendang,43417,"Nasi dengan lauk rendang, gulai, atau sambal",True
+633,5,Ikan Bakar,36555,Ayam goreng dengan sambal pedas,False
+634,48,Mie Ayam,23761,Sayur-sayuran dengan saus kacang,True
+635,5,Soto Ayam,11949,Bakso sapi dengan kuah kaldu,True
+636,9,Nasi Padang,40667,"Nasi dengan lauk rendang, gulai, atau sambal",True
+637,4,Ayam Geprek,47655,Kuah kuning dengan ayam suwir dan koya,False
+638,48,Soto Ayam,27223,Nasi goreng khas dengan telur dan ayam,False
+639,30,Gado-Gado,34313,Daging sapi yang dimasak dengan bumbu khas,False
+640,42,Gado-Gado,21827,Daging sapi yang dimasak dengan bumbu khas,True
+641,29,Gado-Gado,36709,Kuah kuning dengan ayam suwir dan koya,True
+642,41,Rendang,37249,Sayur-sayuran dengan saus kacang,False
+643,11,Gado-Gado,21389,Kuah kuning dengan ayam suwir dan koya,False
+644,46,Nasi Goreng,34109,"Nasi dengan lauk rendang, gulai, atau sambal",False
+645,14,Nasi Goreng,43386,Lontong dengan kuah santan dan sayuran,False
+646,16,Soto Ayam,11551,Lontong dengan kuah santan dan sayuran,False
+647,12,Soto Ayam,22151,Lontong dengan kuah santan dan sayuran,True
+648,47,Lontong Sayur,30451,Kuah kuning dengan ayam suwir dan koya,False
+649,16,Ikan Bakar,44189,Ikan bakar dengan sambal kecap,False
+650,18,Mie Ayam,43303,Sayur-sayuran dengan saus kacang,True
+651,47,Soto Ayam,30124,"Nasi dengan lauk rendang, gulai, atau sambal",True
+652,4,Rendang,15728,"Nasi dengan lauk rendang, gulai, atau sambal",False
+653,43,Rendang,43394,Lontong dengan kuah santan dan sayuran,True
+654,25,Nasi Goreng,40757,Ayam goreng dengan sambal pedas,False
+655,41,Nasi Goreng,26100,Ayam goreng dengan sambal pedas,False
+656,36,Ikan Bakar,41881,Daging sapi yang dimasak dengan bumbu khas,True
+657,37,Ayam Geprek,47974,"Nasi dengan lauk rendang, gulai, atau sambal",False
+658,33,Nasi Goreng,29500,Daging sapi yang dimasak dengan bumbu khas,False
+659,15,Soto Ayam,22026,Ikan bakar dengan sambal kecap,False
+660,4,Soto Ayam,31312,Lontong dengan kuah santan dan sayuran,False
+661,34,Gado-Gado,38335,Sayur-sayuran dengan saus kacang,True
+662,30,Nasi Padang,27303,Bakso sapi dengan kuah kaldu,True
+663,19,Lontong Sayur,44100,Ayam goreng dengan sambal pedas,True
+664,18,Gado-Gado,33994,Ikan bakar dengan sambal kecap,True
+665,8,Ikan Bakar,13945,"Nasi dengan lauk rendang, gulai, atau sambal",True
+666,46,Ikan Bakar,38028,Ayam goreng dengan sambal pedas,False
+667,27,Gado-Gado,24623,Sayur-sayuran dengan saus kacang,True
+668,29,Gado-Gado,48180,Lontong dengan kuah santan dan sayuran,False
+669,42,Nasi Goreng,43307,Lontong dengan kuah santan dan sayuran,True
+670,32,Bakso,37394,Nasi goreng khas dengan telur dan ayam,True
+671,24,Nasi Padang,22267,Ikan bakar dengan sambal kecap,False
+672,14,Nasi Goreng,34265,Nasi goreng khas dengan telur dan ayam,True
+673,20,Bakso,46988,Ayam goreng dengan sambal pedas,False
+674,34,Ikan Bakar,29384,Mie kuning dengan ayam dan pangsit,False
+675,50,Mie Ayam,33356,Bakso sapi dengan kuah kaldu,False
+676,39,Nasi Padang,25461,"Nasi dengan lauk rendang, gulai, atau sambal",False
+677,41,Mie Ayam,21839,Ayam goreng dengan sambal pedas,True
+678,1,Rendang,12024,Nasi goreng khas dengan telur dan ayam,True
+679,39,Mie Ayam,39207,Mie kuning dengan ayam dan pangsit,True
+680,42,Mie Ayam,15450,Nasi goreng khas dengan telur dan ayam,True
+681,26,Soto Ayam,44374,"Nasi dengan lauk rendang, gulai, atau sambal",True
+682,41,Nasi Padang,19048,Daging sapi yang dimasak dengan bumbu khas,True
+683,19,Gado-Gado,16642,Ikan bakar dengan sambal kecap,True
+684,3,Ikan Bakar,48073,Bakso sapi dengan kuah kaldu,True
+685,46,Nasi Goreng,37295,Lontong dengan kuah santan dan sayuran,False
+686,24,Rendang,24051,"Nasi dengan lauk rendang, gulai, atau sambal",True
+687,36,Nasi Goreng,21353,Sayur-sayuran dengan saus kacang,False
+688,28,Lontong Sayur,46942,Sayur-sayuran dengan saus kacang,True
+689,9,Bakso,32501,Ikan bakar dengan sambal kecap,False
+690,19,Bakso,15277,Ayam goreng dengan sambal pedas,False
+691,48,Nasi Padang,21775,Daging sapi yang dimasak dengan bumbu khas,True
+692,35,Nasi Padang,30615,Sayur-sayuran dengan saus kacang,True
+693,31,Lontong Sayur,37299,Sayur-sayuran dengan saus kacang,False
+694,29,Soto Ayam,35164,Bakso sapi dengan kuah kaldu,True
+695,40,Nasi Goreng,16160,Nasi goreng khas dengan telur dan ayam,False
+696,48,Ikan Bakar,32559,Bakso sapi dengan kuah kaldu,False
+697,8,Bakso,26169,Ayam goreng dengan sambal pedas,False
+698,11,Ayam Geprek,43731,Daging sapi yang dimasak dengan bumbu khas,True
+699,43,Mie Ayam,39112,Sayur-sayuran dengan saus kacang,False
+700,47,Nasi Padang,14446,Bakso sapi dengan kuah kaldu,False
+701,36,Nasi Goreng,16787,Ikan bakar dengan sambal kecap,False
+702,12,Ayam Geprek,13718,Mie kuning dengan ayam dan pangsit,False
+703,48,Rendang,37075,"Nasi dengan lauk rendang, gulai, atau sambal",True
+704,43,Bakso,42136,"Nasi dengan lauk rendang, gulai, atau sambal",True
+705,25,Soto Ayam,40183,Ayam goreng dengan sambal pedas,True
+706,38,Ikan Bakar,23139,Bakso sapi dengan kuah kaldu,True
+707,21,Mie Ayam,37212,Ayam goreng dengan sambal pedas,False
+708,38,Gado-Gado,43087,Kuah kuning dengan ayam suwir dan koya,False
+709,8,Rendang,45912,Ayam goreng dengan sambal pedas,False
+710,35,Soto Ayam,15961,Ikan bakar dengan sambal kecap,True
+711,20,Lontong Sayur,24090,Ayam goreng dengan sambal pedas,False
+712,19,Ayam Geprek,16040,Ayam goreng dengan sambal pedas,True
+713,30,Bakso,10949,Daging sapi yang dimasak dengan bumbu khas,False
+714,27,Nasi Padang,41679,"Nasi dengan lauk rendang, gulai, atau sambal",False
+715,42,Ayam Geprek,40497,Sayur-sayuran dengan saus kacang,True
+716,22,Bakso,14350,Mie kuning dengan ayam dan pangsit,False
+717,37,Ayam Geprek,47882,"Nasi dengan lauk rendang, gulai, atau sambal",False
+718,12,Ikan Bakar,12138,Nasi goreng khas dengan telur dan ayam,False
+719,40,Nasi Goreng,38024,Daging sapi yang dimasak dengan bumbu khas,True
+720,41,Lontong Sayur,49287,Daging sapi yang dimasak dengan bumbu khas,False
+721,39,Ikan Bakar,45275,Sayur-sayuran dengan saus kacang,True
+722,19,Mie Ayam,19087,Daging sapi yang dimasak dengan bumbu khas,False
+723,1,Rendang,30882,Kuah kuning dengan ayam suwir dan koya,True
+724,4,Soto Ayam,27421,Lontong dengan kuah santan dan sayuran,False
+725,45,Gado-Gado,41284,Sayur-sayuran dengan saus kacang,True
+726,12,Rendang,13633,Bakso sapi dengan kuah kaldu,True
+727,10,Rendang,46994,Lontong dengan kuah santan dan sayuran,False
+728,32,Soto Ayam,47559,Kuah kuning dengan ayam suwir dan koya,True
+729,24,Mie Ayam,11927,Mie kuning dengan ayam dan pangsit,True
+730,7,Ikan Bakar,29625,Daging sapi yang dimasak dengan bumbu khas,True
+731,20,Rendang,25068,Ikan bakar dengan sambal kecap,False
+732,19,Nasi Padang,31784,Mie kuning dengan ayam dan pangsit,True
+733,20,Soto Ayam,17463,Bakso sapi dengan kuah kaldu,False
+734,19,Mie Ayam,34301,Ayam goreng dengan sambal pedas,True
+735,47,Ayam Geprek,16795,Daging sapi yang dimasak dengan bumbu khas,False
+736,14,Ayam Geprek,27177,Bakso sapi dengan kuah kaldu,True
+737,39,Mie Ayam,34514,Nasi goreng khas dengan telur dan ayam,True
+738,48,Mie Ayam,10488,"Nasi dengan lauk rendang, gulai, atau sambal",True
+739,19,Nasi Goreng,36117,Nasi goreng khas dengan telur dan ayam,False
+740,12,Soto Ayam,42490,Lontong dengan kuah santan dan sayuran,False
+741,32,Nasi Goreng,49751,Ayam goreng dengan sambal pedas,True
+742,14,Nasi Padang,24762,Kuah kuning dengan ayam suwir dan koya,True
+743,50,Nasi Goreng,27836,Lontong dengan kuah santan dan sayuran,True
+744,49,Rendang,11307,Daging sapi yang dimasak dengan bumbu khas,True
+745,15,Gado-Gado,36551,Daging sapi yang dimasak dengan bumbu khas,True
+746,44,Lontong Sayur,10854,Lontong dengan kuah santan dan sayuran,False
+747,11,Nasi Goreng,30691,Ikan bakar dengan sambal kecap,False
+748,22,Ayam Geprek,40784,"Nasi dengan lauk rendang, gulai, atau sambal",False
+749,20,Nasi Padang,21682,Bakso sapi dengan kuah kaldu,False
+750,19,Gado-Gado,25323,Daging sapi yang dimasak dengan bumbu khas,True
+751,48,Lontong Sayur,32693,Daging sapi yang dimasak dengan bumbu khas,True
+752,44,Nasi Goreng,25097,Kuah kuning dengan ayam suwir dan koya,False
+753,17,Nasi Goreng,10037,Mie kuning dengan ayam dan pangsit,True
+754,39,Nasi Padang,30457,Ikan bakar dengan sambal kecap,False
+755,36,Soto Ayam,26798,Daging sapi yang dimasak dengan bumbu khas,False
+756,7,Ayam Geprek,40586,Sayur-sayuran dengan saus kacang,True
+757,48,Ikan Bakar,25628,Sayur-sayuran dengan saus kacang,True
+758,48,Ikan Bakar,24302,Ikan bakar dengan sambal kecap,False
+759,30,Bakso,11245,Mie kuning dengan ayam dan pangsit,False
+760,14,Bakso,10401,Ayam goreng dengan sambal pedas,False
+761,24,Nasi Padang,41532,Mie kuning dengan ayam dan pangsit,True
+762,18,Soto Ayam,46283,Ayam goreng dengan sambal pedas,False
+763,16,Soto Ayam,31362,Kuah kuning dengan ayam suwir dan koya,False
+764,42,Nasi Goreng,27601,Mie kuning dengan ayam dan pangsit,False
+765,23,Bakso,36226,Sayur-sayuran dengan saus kacang,True
+766,1,Ikan Bakar,42458,Bakso sapi dengan kuah kaldu,True
+767,38,Mie Ayam,26865,"Nasi dengan lauk rendang, gulai, atau sambal",False
+768,11,Soto Ayam,35597,Mie kuning dengan ayam dan pangsit,True
+769,45,Lontong Sayur,12215,Ikan bakar dengan sambal kecap,False
+770,27,Mie Ayam,42405,Lontong dengan kuah santan dan sayuran,False
+771,14,Rendang,20965,Bakso sapi dengan kuah kaldu,True
+772,44,Nasi Goreng,41456,Sayur-sayuran dengan saus kacang,True
+773,45,Nasi Padang,40945,"Nasi dengan lauk rendang, gulai, atau sambal",True
+774,20,Gado-Gado,28630,Nasi goreng khas dengan telur dan ayam,False
+775,49,Soto Ayam,31247,Ayam goreng dengan sambal pedas,True
+776,5,Soto Ayam,27377,Ikan bakar dengan sambal kecap,True
+777,30,Nasi Goreng,49969,Kuah kuning dengan ayam suwir dan koya,False
+778,42,Nasi Padang,44770,Kuah kuning dengan ayam suwir dan koya,False
+779,47,Gado-Gado,13971,Sayur-sayuran dengan saus kacang,True
+780,44,Ayam Geprek,16854,"Nasi dengan lauk rendang, gulai, atau sambal",True
+781,22,Ayam Geprek,27539,Bakso sapi dengan kuah kaldu,False
+782,30,Bakso,12017,Lontong dengan kuah santan dan sayuran,False
+783,16,Soto Ayam,14916,"Nasi dengan lauk rendang, gulai, atau sambal",True
+784,44,Nasi Goreng,47861,Daging sapi yang dimasak dengan bumbu khas,True
+785,45,Lontong Sayur,11146,Nasi goreng khas dengan telur dan ayam,True
+786,49,Rendang,22054,Ikan bakar dengan sambal kecap,True
+787,19,Ikan Bakar,24653,Nasi goreng khas dengan telur dan ayam,True
+788,8,Gado-Gado,32846,Bakso sapi dengan kuah kaldu,False
+789,42,Bakso,16930,Ayam goreng dengan sambal pedas,False
+790,40,Rendang,44455,"Nasi dengan lauk rendang, gulai, atau sambal",True
+791,1,Gado-Gado,14612,Nasi goreng khas dengan telur dan ayam,False
+792,41,Mie Ayam,34179,Ikan bakar dengan sambal kecap,True
+793,7,Lontong Sayur,39552,Lontong dengan kuah santan dan sayuran,True
+794,13,Nasi Padang,23637,Ayam goreng dengan sambal pedas,False
+795,24,Bakso,17251,Kuah kuning dengan ayam suwir dan koya,False
+796,44,Soto Ayam,20434,Ayam goreng dengan sambal pedas,True
+797,43,Gado-Gado,37345,Ikan bakar dengan sambal kecap,False
+798,10,Mie Ayam,36503,Ikan bakar dengan sambal kecap,True
+799,9,Mie Ayam,16143,Mie kuning dengan ayam dan pangsit,True
+800,17,Nasi Goreng,18260,Bakso sapi dengan kuah kaldu,True
+801,48,Gado-Gado,17283,Nasi goreng khas dengan telur dan ayam,True
+802,6,Gado-Gado,29351,Sayur-sayuran dengan saus kacang,True
+803,4,Soto Ayam,33214,Kuah kuning dengan ayam suwir dan koya,True
+804,7,Ayam Geprek,41855,Bakso sapi dengan kuah kaldu,True
+805,4,Ayam Geprek,30022,Sayur-sayuran dengan saus kacang,False
+806,44,Mie Ayam,32231,Lontong dengan kuah santan dan sayuran,True
+807,32,Gado-Gado,34495,Bakso sapi dengan kuah kaldu,False
+808,21,Lontong Sayur,39548,Daging sapi yang dimasak dengan bumbu khas,False
+809,12,Ikan Bakar,28297,Ayam goreng dengan sambal pedas,True
+810,43,Mie Ayam,18019,Mie kuning dengan ayam dan pangsit,False
+811,32,Soto Ayam,44031,Sayur-sayuran dengan saus kacang,True
+812,11,Nasi Goreng,34525,Ayam goreng dengan sambal pedas,False
+813,3,Soto Ayam,16585,Bakso sapi dengan kuah kaldu,False
+814,48,Ikan Bakar,25678,Lontong dengan kuah santan dan sayuran,True
+815,28,Lontong Sayur,43596,Nasi goreng khas dengan telur dan ayam,True
+816,28,Nasi Padang,15056,Lontong dengan kuah santan dan sayuran,True
+817,20,Mie Ayam,15101,Bakso sapi dengan kuah kaldu,True
+818,23,Nasi Goreng,24546,Mie kuning dengan ayam dan pangsit,True
+819,9,Gado-Gado,25511,Bakso sapi dengan kuah kaldu,True
+820,40,Ayam Geprek,37930,"Nasi dengan lauk rendang, gulai, atau sambal",False
+821,26,Rendang,35076,Nasi goreng khas dengan telur dan ayam,False
+822,24,Bakso,30661,Nasi goreng khas dengan telur dan ayam,False
+823,15,Ikan Bakar,48470,Nasi goreng khas dengan telur dan ayam,True
+824,24,Ayam Geprek,16646,Bakso sapi dengan kuah kaldu,True
+825,6,Gado-Gado,22863,Lontong dengan kuah santan dan sayuran,False
+826,29,Lontong Sayur,12816,Ayam goreng dengan sambal pedas,False
+827,50,Rendang,21265,Sayur-sayuran dengan saus kacang,True
+828,46,Nasi Padang,19053,Kuah kuning dengan ayam suwir dan koya,False
+829,50,Lontong Sayur,32752,Kuah kuning dengan ayam suwir dan koya,True
+830,26,Mie Ayam,33286,Sayur-sayuran dengan saus kacang,False
+831,41,Lontong Sayur,43509,Sayur-sayuran dengan saus kacang,True
+832,6,Bakso,38311,Nasi goreng khas dengan telur dan ayam,False
+833,50,Lontong Sayur,37810,Bakso sapi dengan kuah kaldu,True
+834,18,Bakso,14079,Daging sapi yang dimasak dengan bumbu khas,False
+835,41,Bakso,24407,Sayur-sayuran dengan saus kacang,True
+836,48,Rendang,38590,Ikan bakar dengan sambal kecap,False
+837,47,Nasi Goreng,46880,Sayur-sayuran dengan saus kacang,True
+838,43,Gado-Gado,24339,Daging sapi yang dimasak dengan bumbu khas,False
+839,47,Lontong Sayur,43798,Bakso sapi dengan kuah kaldu,False
+840,22,Lontong Sayur,40997,Mie kuning dengan ayam dan pangsit,False
+841,48,Soto Ayam,15285,"Nasi dengan lauk rendang, gulai, atau sambal",True
+842,9,Ayam Geprek,42346,Nasi goreng khas dengan telur dan ayam,True
+843,33,Gado-Gado,49081,Nasi goreng khas dengan telur dan ayam,False
+844,34,Bakso,22350,Mie kuning dengan ayam dan pangsit,True
+845,27,Mie Ayam,11969,Kuah kuning dengan ayam suwir dan koya,False
+846,12,Bakso,44579,Nasi goreng khas dengan telur dan ayam,True
+847,41,Ikan Bakar,17670,Sayur-sayuran dengan saus kacang,True
+848,12,Bakso,18161,Ayam goreng dengan sambal pedas,False
+849,16,Lontong Sayur,12635,Sayur-sayuran dengan saus kacang,True
+850,29,Gado-Gado,28678,Ayam goreng dengan sambal pedas,False
+851,28,Rendang,38908,"Nasi dengan lauk rendang, gulai, atau sambal",True
+852,11,Nasi Goreng,21307,Bakso sapi dengan kuah kaldu,False
+853,49,Ayam Geprek,20886,Mie kuning dengan ayam dan pangsit,True
+854,10,Mie Ayam,10015,Nasi goreng khas dengan telur dan ayam,True
+855,38,Ikan Bakar,18782,"Nasi dengan lauk rendang, gulai, atau sambal",False
+856,21,Mie Ayam,14230,Daging sapi yang dimasak dengan bumbu khas,False
+857,46,Bakso,43727,Sayur-sayuran dengan saus kacang,False
+858,16,Nasi Padang,17862,Mie kuning dengan ayam dan pangsit,False
+859,33,Lontong Sayur,49906,Kuah kuning dengan ayam suwir dan koya,True
+860,32,Bakso,35158,Ayam goreng dengan sambal pedas,True
+861,25,Mie Ayam,19614,Ayam goreng dengan sambal pedas,True
+862,3,Soto Ayam,34182,"Nasi dengan lauk rendang, gulai, atau sambal",True
+863,10,Bakso,45632,Ikan bakar dengan sambal kecap,True
+864,27,Bakso,25162,Ayam goreng dengan sambal pedas,False
+865,39,Mie Ayam,17346,Kuah kuning dengan ayam suwir dan koya,True
+866,32,Lontong Sayur,19510,Mie kuning dengan ayam dan pangsit,False
+867,16,Ikan Bakar,23814,Ikan bakar dengan sambal kecap,False
+868,46,Gado-Gado,41553,Nasi goreng khas dengan telur dan ayam,False
+869,16,Rendang,20477,Daging sapi yang dimasak dengan bumbu khas,True
+870,42,Ikan Bakar,33847,Bakso sapi dengan kuah kaldu,True
+871,8,Mie Ayam,28805,Mie kuning dengan ayam dan pangsit,False
+872,3,Nasi Goreng,15273,Nasi goreng khas dengan telur dan ayam,True
+873,45,Ayam Geprek,29222,Nasi goreng khas dengan telur dan ayam,False
+874,27,Mie Ayam,39601,Ikan bakar dengan sambal kecap,True
+875,20,Nasi Padang,26948,"Nasi dengan lauk rendang, gulai, atau sambal",False
+876,19,Ayam Geprek,22913,Daging sapi yang dimasak dengan bumbu khas,True
+877,8,Nasi Goreng,37817,Daging sapi yang dimasak dengan bumbu khas,False
+878,36,Rendang,41271,"Nasi dengan lauk rendang, gulai, atau sambal",False
+879,2,Ayam Geprek,31419,Ikan bakar dengan sambal kecap,False
+880,4,Gado-Gado,49763,Lontong dengan kuah santan dan sayuran,False
+881,13,Rendang,23037,Mie kuning dengan ayam dan pangsit,True
+882,34,Gado-Gado,25331,"Nasi dengan lauk rendang, gulai, atau sambal",False
+883,10,Ayam Geprek,28635,"Nasi dengan lauk rendang, gulai, atau sambal",True
+884,24,Ikan Bakar,45640,Nasi goreng khas dengan telur dan ayam,False
+885,25,Lontong Sayur,28004,Sayur-sayuran dengan saus kacang,True
+886,40,Ayam Geprek,29355,Daging sapi yang dimasak dengan bumbu khas,True
+887,39,Nasi Padang,27846,Bakso sapi dengan kuah kaldu,True
+888,50,Lontong Sayur,19529,Kuah kuning dengan ayam suwir dan koya,True
+889,29,Bakso,29064,"Nasi dengan lauk rendang, gulai, atau sambal",False
+890,23,Bakso,20582,Sayur-sayuran dengan saus kacang,False
+891,50,Bakso,42273,Ikan bakar dengan sambal kecap,False
+892,15,Gado-Gado,26924,Ikan bakar dengan sambal kecap,False
+893,50,Rendang,17229,Sayur-sayuran dengan saus kacang,False
+894,3,Lontong Sayur,47303,"Nasi dengan lauk rendang, gulai, atau sambal",False
+895,27,Mie Ayam,33697,Mie kuning dengan ayam dan pangsit,True
+896,50,Nasi Padang,48982,Ikan bakar dengan sambal kecap,True
+897,41,Ayam Geprek,49201,Ayam goreng dengan sambal pedas,True
+898,3,Ikan Bakar,39844,"Nasi dengan lauk rendang, gulai, atau sambal",False
+899,33,Soto Ayam,12520,Sayur-sayuran dengan saus kacang,True
+900,31,Mie Ayam,49067,Ayam goreng dengan sambal pedas,False
+901,39,Ayam Geprek,48428,Sayur-sayuran dengan saus kacang,False
+902,24,Gado-Gado,22975,Ayam goreng dengan sambal pedas,True
+903,1,Bakso,22972,Ayam goreng dengan sambal pedas,False
+904,46,Ayam Geprek,13546,Daging sapi yang dimasak dengan bumbu khas,True
+905,40,Bakso,18583,Mie kuning dengan ayam dan pangsit,True
+906,4,Mie Ayam,37642,Mie kuning dengan ayam dan pangsit,True
+907,8,Lontong Sayur,26007,Bakso sapi dengan kuah kaldu,True
+908,25,Nasi Padang,30716,Bakso sapi dengan kuah kaldu,True
+909,45,Ikan Bakar,24006,Lontong dengan kuah santan dan sayuran,True
+910,9,Gado-Gado,32893,Lontong dengan kuah santan dan sayuran,True
+911,34,Mie Ayam,48524,Lontong dengan kuah santan dan sayuran,False
+912,37,Lontong Sayur,40248,Nasi goreng khas dengan telur dan ayam,False
+913,42,Rendang,49096,Bakso sapi dengan kuah kaldu,False
+914,2,Nasi Padang,31103,Mie kuning dengan ayam dan pangsit,True
+915,15,Soto Ayam,30784,Bakso sapi dengan kuah kaldu,False
+916,46,Rendang,11679,Nasi goreng khas dengan telur dan ayam,False
+917,6,Lontong Sayur,36718,"Nasi dengan lauk rendang, gulai, atau sambal",False
+918,42,Soto Ayam,19700,Nasi goreng khas dengan telur dan ayam,True
+919,17,Ikan Bakar,25994,"Nasi dengan lauk rendang, gulai, atau sambal",False
+920,4,Ayam Geprek,23617,Lontong dengan kuah santan dan sayuran,False
+921,48,Ikan Bakar,13946,Mie kuning dengan ayam dan pangsit,True
+922,11,Bakso,15850,Nasi goreng khas dengan telur dan ayam,True
+923,3,Ikan Bakar,43869,Lontong dengan kuah santan dan sayuran,True
+924,8,Mie Ayam,49877,Bakso sapi dengan kuah kaldu,True
+925,43,Bakso,33185,Ikan bakar dengan sambal kecap,False
+926,41,Bakso,37071,Ikan bakar dengan sambal kecap,True
+927,12,Nasi Goreng,44270,Kuah kuning dengan ayam suwir dan koya,False
+928,46,Nasi Padang,22938,Sayur-sayuran dengan saus kacang,False
+929,35,Bakso,24619,Nasi goreng khas dengan telur dan ayam,False
+930,30,Soto Ayam,40744,Ayam goreng dengan sambal pedas,True
+931,47,Bakso,43966,Daging sapi yang dimasak dengan bumbu khas,True
+932,32,Nasi Padang,39387,"Nasi dengan lauk rendang, gulai, atau sambal",True
+933,2,Ayam Geprek,48724,Bakso sapi dengan kuah kaldu,False
+934,48,Mie Ayam,31101,Sayur-sayuran dengan saus kacang,False
+935,46,Ayam Geprek,41810,"Nasi dengan lauk rendang, gulai, atau sambal",False
+936,4,Rendang,36802,Ayam goreng dengan sambal pedas,True
+937,16,Nasi Goreng,46991,Kuah kuning dengan ayam suwir dan koya,False
+938,5,Lontong Sayur,13443,Nasi goreng khas dengan telur dan ayam,True
+939,39,Bakso,22236,Mie kuning dengan ayam dan pangsit,False
+940,7,Mie Ayam,17622,Ayam goreng dengan sambal pedas,False
+941,46,Rendang,11182,Daging sapi yang dimasak dengan bumbu khas,False
+942,3,Ayam Geprek,25191,Sayur-sayuran dengan saus kacang,False
+943,41,Lontong Sayur,41694,Daging sapi yang dimasak dengan bumbu khas,False
+944,25,Ayam Geprek,34620,Nasi goreng khas dengan telur dan ayam,True
+945,6,Rendang,47041,Ayam goreng dengan sambal pedas,True
+946,25,Gado-Gado,42629,Ayam goreng dengan sambal pedas,True
+947,17,Rendang,47225,Ayam goreng dengan sambal pedas,True
+948,6,Nasi Goreng,29858,Nasi goreng khas dengan telur dan ayam,False
+949,32,Gado-Gado,16172,Mie kuning dengan ayam dan pangsit,False
+950,1,Lontong Sayur,45851,Ikan bakar dengan sambal kecap,False
+951,47,Gado-Gado,21946,Sayur-sayuran dengan saus kacang,False
+952,50,Rendang,23326,Mie kuning dengan ayam dan pangsit,True
+953,37,Nasi Goreng,49777,Bakso sapi dengan kuah kaldu,True
+954,50,Gado-Gado,15508,Sayur-sayuran dengan saus kacang,True
+955,24,Bakso,36657,"Nasi dengan lauk rendang, gulai, atau sambal",False
+956,28,Bakso,44920,Nasi goreng khas dengan telur dan ayam,False
+957,35,Nasi Padang,23080,Ikan bakar dengan sambal kecap,False
+958,26,Soto Ayam,14787,Sayur-sayuran dengan saus kacang,False
+959,8,Soto Ayam,19818,Daging sapi yang dimasak dengan bumbu khas,False
+960,16,Nasi Goreng,34656,Nasi goreng khas dengan telur dan ayam,True
+961,42,Soto Ayam,32721,Lontong dengan kuah santan dan sayuran,False
+962,29,Gado-Gado,32987,Kuah kuning dengan ayam suwir dan koya,True
+963,48,Lontong Sayur,41947,Ikan bakar dengan sambal kecap,True
+964,50,Nasi Padang,30074,Mie kuning dengan ayam dan pangsit,False
+965,23,Nasi Goreng,45292,Ikan bakar dengan sambal kecap,False
+966,44,Nasi Goreng,43328,Bakso sapi dengan kuah kaldu,False
+967,10,Lontong Sayur,33510,Ikan bakar dengan sambal kecap,False
+968,7,Rendang,13803,"Nasi dengan lauk rendang, gulai, atau sambal",False
+969,22,Lontong Sayur,23297,Sayur-sayuran dengan saus kacang,True
+970,10,Ayam Geprek,49459,Sayur-sayuran dengan saus kacang,True
+971,14,Rendang,37072,"Nasi dengan lauk rendang, gulai, atau sambal",False
+972,3,Nasi Padang,31196,Ikan bakar dengan sambal kecap,True
+973,2,Ikan Bakar,36983,Sayur-sayuran dengan saus kacang,True
+974,50,Mie Ayam,38207,Ikan bakar dengan sambal kecap,False
+975,46,Soto Ayam,23067,Nasi goreng khas dengan telur dan ayam,True
+976,42,Mie Ayam,46141,Sayur-sayuran dengan saus kacang,True
+977,41,Bakso,19548,Sayur-sayuran dengan saus kacang,False
+978,11,Ikan Bakar,25480,"Nasi dengan lauk rendang, gulai, atau sambal",False
+979,14,Soto Ayam,19359,Ayam goreng dengan sambal pedas,True
+980,16,Ikan Bakar,10420,"Nasi dengan lauk rendang, gulai, atau sambal",False
+981,29,Gado-Gado,27610,Mie kuning dengan ayam dan pangsit,True
+982,35,Mie Ayam,12295,Ayam goreng dengan sambal pedas,True
+983,46,Rendang,16201,Mie kuning dengan ayam dan pangsit,False
+984,27,Bakso,38515,"Nasi dengan lauk rendang, gulai, atau sambal",False
+985,36,Nasi Padang,13675,Nasi goreng khas dengan telur dan ayam,False
+986,11,Bakso,13422,Bakso sapi dengan kuah kaldu,True
+987,41,Lontong Sayur,19245,Daging sapi yang dimasak dengan bumbu khas,True
+988,1,Rendang,35163,Sayur-sayuran dengan saus kacang,True
+989,30,Ikan Bakar,35483,Nasi goreng khas dengan telur dan ayam,True
+990,46,Gado-Gado,32086,Bakso sapi dengan kuah kaldu,True
+991,10,Bakso,14805,Daging sapi yang dimasak dengan bumbu khas,False
+992,22,Rendang,19572,Ayam goreng dengan sambal pedas,True
+993,33,Gado-Gado,23182,"Nasi dengan lauk rendang, gulai, atau sambal",True
+994,50,Mie Ayam,24326,Bakso sapi dengan kuah kaldu,True
+995,22,Lontong Sayur,38373,Kuah kuning dengan ayam suwir dan koya,False
+996,35,Lontong Sayur,43801,Lontong dengan kuah santan dan sayuran,True
+997,22,Bakso,49256,Sayur-sayuran dengan saus kacang,True
+998,48,Rendang,41767,Kuah kuning dengan ayam suwir dan koya,False
+999,25,Nasi Padang,43103,Nasi goreng khas dengan telur dan ayam,True
+1000,48,Soto Ayam,33778,Ikan bakar dengan sambal kecap,True
